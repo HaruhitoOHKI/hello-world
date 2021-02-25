@@ -1,4 +1,4 @@
 # hello-world
 first attempt to make a new repository
-/success??
-/yeah, looks good.
+/n success??
+/n yeah, looks good.
